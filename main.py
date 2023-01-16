@@ -13,4 +13,4 @@ def hello_world(request):
     elif request_json and 'message' in request_json:
         return request_json['message']
     else:
-        return f'Hello cloud advocates!!!'
+        return f'Hello team-CSB-Batch-6 Our task is in-progress will update you soon the end-date!!!'
