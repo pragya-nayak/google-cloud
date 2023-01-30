@@ -13,4 +13,4 @@ def hello_world(request):
     elif request_json and 'message' in request_json:
         return request_json['message']
     else:
-        return f'Hello team-CSB-Batch-6 welcome to our GCP DILIP & PRAGYA!!!'
+        return f'Give me some sunlight , Give me some rain , Give me an other chance , i wanna grow-up once again!!!'
